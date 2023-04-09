@@ -1,4 +1,5 @@
 #Función para dibujar el tablero del juego
+# Fuente tomada del chatgpt
 def dibujar_tablero(tablero):
     print(tablero[0] + "|" + tablero[1] + "|" + tablero[2])
     print("-" * 5)
